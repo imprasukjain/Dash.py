@@ -1,0 +1,9 @@
+Numpy
+Pandas
+Matplotlib
+Seaborn
+scipy
+os
+dash
+Plotly
+FMP-Python
