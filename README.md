@@ -54,6 +54,7 @@ Use the interface to search for stocks, view their real-time data, and explore v
 ## Contributing
 
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue on the GitHub repository.
+<a href="mailto:p.jain161202@gmail.com">Contact me !</a>
 
 
 ## Acknowledgements
